@@ -15,7 +15,7 @@ public class Main {
 
         System.out.println(km.amountInUnit());
         System.out.println(mil.amountInUnit());
-
+        System.out.println(cm.getAmount());
     }
 
 }
